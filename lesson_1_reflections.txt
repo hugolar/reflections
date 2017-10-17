@@ -1,0 +1,19 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Using a tool to compare files instead of a visual review helps catch changes that may go unnoticed by the eye
+It allows to compare large amount of lines of code
+It structures the output in a useful format
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It helps to review different changes, not just the last one, as a problem may araise after more than one cycle
+It allows the programmer to understand the logic of the code even if he didn't participate in previous versions
+
+GitHub allows the ability to track multiple files, this is a good feature to have when projects involve multiple files, for example the arduino has the cc file, the libraries, and the constant files. The Android has the html and the java files.
+
+How can you use the commands git log and git diff to view the history of files?
+git log allows us to view the history of versions of a repository. git diff shows the lines that were either added or removed. This allows us to track our changes more efficiently than by a visual revision
+
+How might using version control make you more confident to make changes that could break something?
+We have the hability to make changes, release them, and if a bug was introduced, to identify the release that created the bug and use the git diff command to find out the actual line that created the problem, this makes it easy to identify and fix bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I will use Git for version control over the Arduino projects and try it with the Android projects as well
