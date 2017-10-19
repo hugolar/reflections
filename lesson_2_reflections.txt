@@ -12,3 +12,7 @@ When creating a version with a new language, or maybe even a new functionality. 
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help visualize the branch structure, this helps avoid creating unreachable commits
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It allows you to merge whenever you decide is a good idea, it also helps identify conflicts. A con is that resolving a conflict can be tricky
+
